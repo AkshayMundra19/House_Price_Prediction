@@ -20,8 +20,3 @@ The dataset is manually created and contains:
 - pandas
 - matplotlib
 - scikit-learn
-
-## How to Run the Project
-1. Clone the repository:
-```bash
-git clone https://github.com/AkshayMundra19/House-Price-Prediction-ML.git
